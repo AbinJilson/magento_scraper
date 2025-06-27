@@ -1,0 +1,24 @@
+# Core
+Scrapy==2.11.0
+itemadapter==0.8.0
+python-dotenv==1.0.0
+
+# Image Processing
+Pillow>=9.0.0  # Required for image processing
+
+# Utilities
+python-slugify>=6.0.0  # For URL and filename sanitization
+w3lib>=2.1.0  # For URL and HTML utilities
+
+# Development
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.900
+
+# Optional (uncomment if needed)
+# scrapy-user-agents==0.1.1  # For rotating user agents
+# scrapy-rotating-proxies==0.8.4  # For rotating proxies
+# scrapy-splash>=0.7.2  # For JavaScript rendering
+# scrapy-fake-useragent>=1.4.4  # For random user agents
