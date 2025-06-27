@@ -25,7 +25,7 @@ A Scrapy-based web scraper for extracting product and category data from Magento
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AbinJilson/magento_scraper.git
    cd magento_scraper
    ```
 
